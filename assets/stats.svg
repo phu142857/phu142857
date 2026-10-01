@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215">
+<style>
+  .t{font:600 17px 'Segoe UI',Ubuntu,sans-serif;fill:#70a5fd}
+  .lbl{font:400 13px 'Segoe UI',Ubuntu,sans-serif;fill:#a9b1d6}
+  .val{font:700 13px 'Segoe UI',Ubuntu,sans-serif;fill:#c0caf5}
+  .big{font:800 34px 'Segoe UI',Ubuntu,sans-serif}
+  .sm{font:400 12px 'Segoe UI',Ubuntu,sans-serif;fill:#a9b1d6}
+</style>
+<rect width="495" height="215" rx="6" fill="#1a1b27"/>
+<text x="30" y="35" class="t">phu142857's GitHub Stats</text>
+<text x="30" y="70" class="lbl">⭐ Total Stars</text><text x="235" y="70" class="val" text-anchor="end">2</text><text x="30" y="96" class="lbl">📝 Commits (1y)</text><text x="235" y="96" class="val" text-anchor="end">841</text><text x="30" y="122" class="lbl">🔀 Pull Requests</text><text x="235" y="122" class="val" text-anchor="end">3</text><text x="30" y="148" class="lbl">🐛 Issues</text><text x="235" y="148" class="val" text-anchor="end">0</text><text x="30" y="174" class="lbl">👥 Followers</text><text x="235" y="174" class="val" text-anchor="end">1</text>
+<line x1="270" y1="55" x2="270" y2="190" stroke="#3b4261"/>
+<text x="382" y="95" class="big" text-anchor="middle" fill="#bb9af7">1</text>
+<text x="382" y="118" class="sm" text-anchor="middle">Current Streak 🔥</text>
+<text x="382" y="160" class="big" text-anchor="middle" fill="#7dcfff">39</text>
+<text x="382" y="183" class="sm" text-anchor="middle">Longest Streak</text>
+</svg>
