@@ -59,14 +59,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phu142857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu142857&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="./assets/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phu142857&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu142857&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&card_width=495" />
 </p>
-
 ---
 
 ## 📫 Contact
